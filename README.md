@@ -2,7 +2,7 @@
 
 A C++ command-line calculator for solids of revolution using cylindrical shells and disk/washer methods.
 
-## Version 6 highlights
+## Highlights
 
 - Detects crossing and tangent/touching intersections.
 - Supports side-boundary + intersection bounds for tangent-region problems.
@@ -18,7 +18,7 @@ A C++ command-line calculator for solids of revolution using cylindrical shells 
 - Includes `--test` mode for quick self-checks.
 - Includes a `Makefile` and `Doxyfile` for easier building and documentation.
 
-## Build from Terminal
+## Command line build
 
 ```bash
 make
